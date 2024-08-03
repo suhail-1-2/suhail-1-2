@@ -23,16 +23,20 @@ and contribute to the success of a dynamic and growth-oriented organization.
          By analyzing customer data, the project aims to predict which customers are likely
          to churn, enabling the company to take proactive measures to retain them. The dataset
          used is the Telco Customer Churn dataset, which includes various customer attributes..
-                       Customer churn prediction is crucial for businesses to maintain their customer base and
+   -     Customer churn prediction is crucial for businesses to maintain their customer base and
          maximize revenue. By accurately predicting churn, companies can identify at-risk customers
          and implement retention strategies. This project uses an Artificial Neural Network (ANN)            
          to predict churn based on customer data, providing valuable insights into customer behavior.
 
    - **Technologies Used:**    pandas, numpy, matplotlib, seaborn, TensorFlow, Keras
 
-### 3. [Project Name](link-to-project)
-   - **Description:** Brief description of the project, what problem it solves, and your contributions.
-   - **Technologies Used:** Python, Scikit-learn
+### 3. [Covid data analysis ](https://github.com/suhail-1-2/python-projects-/blob/main/covid%20data%20analysis.ipynb)
+   - **Description:** This project performs a comprehensive analysis of the COVID-19 pandemic using a dataset that includes various
+     statistics about COVID-19 cases, deaths, and recoveries across different countries and regions. The objective is to extract
+     meaningful insights from the data to understand the spread and impact of the virus.
+     Problem Solved:
+     The project addresses the need for detailed analysis and visualization of COVID-19 data to help stakeholders make informed decisions. By analyzing the dataset, we can identify patterns and trends, understand      regional impacts, and assess the effectiveness of interventions. This information is crucial for public health planning, resource allocation, and policy-making..
+   - **Technologies Used:** Python, pandas, numpy, matplotlib, seaborn
 
 ## Contact
 - **LinkedIn:** www.linkedin.com/in/mohammad-suhail-l-081962262
