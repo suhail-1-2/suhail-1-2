@@ -15,7 +15,7 @@ and contribute to the success of a dynamic and growth-oriented organization.
 
 ## Projects
 ### 1. [gender detection](https://github.com/suhail-1-2/gender-detection-)
-   - **Description:** Brief description of the project, what problem it solves, and your contributions.
+   - **Description:** .
    - **Technologies Used:** Python, Pandas, scikit_learn
 
 ### 2. [ Churn Analysis Using Artificial Neural Network (ANN) ](https://github.com/suhail-1-2/churn-data-analysis)
@@ -37,7 +37,9 @@ and contribute to the success of a dynamic and growth-oriented organization.
      Problem Solved:
      The project addresses the need for detailed analysis and visualization of COVID-19 data to help stakeholders make informed decisions. By analyzing the dataset, we can identify patterns and trends, understand      regional impacts, and assess the effectiveness of interventions. This information is crucial for public health planning, resource allocation, and policy-making..
    - **Technologies Used:** Python, pandas, numpy, matplotlib, seaborn
-
+### 4. [CIFAR-10 Image Classification ](https://github.com/suhail-1-2/CIFAR-10-Image-Classification/tree/main)
+   - **Description:**  The CIFAR-10 dataset is a well-known dataset used in machine learning and computer vision research. It consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. The dataset is divided into 50,000 training images and 10,000 test images. The goal of this project is to build and evaluate both ANN and CNN models to classify these images accurately.
+   - **Technologies Used:** Python, pandas, numpy, matplotlib, seaborn, ANN, CNN
 ## Contact
 - **LinkedIn:** www.linkedin.com/in/mohammad-suhail-l-081962262
 - **Email:** suhaillmd5@gmail.com
