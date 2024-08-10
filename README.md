@@ -14,11 +14,11 @@ and contribute to the success of a dynamic and growth-oriented organization.
 - **Other Tools:** Jupyter Notebook, Git
 
 ## Projects
-### 1. [gender detection](https://github.com/suhail-1-2/python-projects-/blob/main/Medical%20Cost%20Personal.ipynb)
+### 1. [gender detection](https://github.com/suhail-1-2/gender-detection-)
    - **Description:** Brief description of the project, what problem it solves, and your contributions.
    - **Technologies Used:** Python, Pandas, scikit_learn
 
-### 2. [ Churn Analysis Using Artificial Neural Network (ANN) ](https://github.com/suhail-1-2/python-projects-/blob/main/churn%20analysis%20using%20ann.ipynb)
+### 2. [ Churn Analysis Using Artificial Neural Network (ANN) ](https://github.com/suhail-1-2/churn-data-analysis)
    - **Description:** This project addresses the issue of customer churn in the telecommunications industry.
          By analyzing customer data, the project aims to predict which customers are likely
          to churn, enabling the company to take proactive measures to retain them. The dataset
