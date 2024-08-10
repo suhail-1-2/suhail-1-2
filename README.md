@@ -14,7 +14,7 @@ and contribute to the success of a dynamic and growth-oriented organization.
 - **Other Tools:** Jupyter Notebook, Git
 
 ## Projects
-### 1. [medical cost prediction](https://github.com/suhail-1-2/python-projects-/blob/main/Medical%20Cost%20Personal.ipynb)
+### 1. [gender detection](https://github.com/suhail-1-2/python-projects-/blob/main/Medical%20Cost%20Personal.ipynb)
    - **Description:** Brief description of the project, what problem it solves, and your contributions.
    - **Technologies Used:** Python, Pandas, scikit_learn
 
@@ -23,7 +23,7 @@ and contribute to the success of a dynamic and growth-oriented organization.
          By analyzing customer data, the project aims to predict which customers are likely
          to churn, enabling the company to take proactive measures to retain them. The dataset
          used is the Telco Customer Churn dataset, which includes various customer attributes..
-   -     Customer churn prediction is crucial for businesses to maintain their customer base and
+   - Customer churn prediction is crucial for businesses to maintain their customer base and
          maximize revenue. By accurately predicting churn, companies can identify at-risk customers
          and implement retention strategies. This project uses an Artificial Neural Network (ANN)            
          to predict churn based on customer data, providing valuable insights into customer behavior.
