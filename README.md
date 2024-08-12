@@ -15,7 +15,10 @@ and contribute to the success of a dynamic and growth-oriented organization.
 
 ## Projects
 ### 1. [gender detection](https://github.com/suhail-1-2/gender-detection-)
-   - **Description:** .
+   - **Description:** .This project implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify gender based on images. The model is trained on a dataset containing images of males and       females, with key steps including data preprocessing, model building, and evaluation. The notebook also demonstrates the use of various TensorFlow utilities for handling image datasets.
+   - Library Imports: TensorFlow, Keras, and other essential libraries like Matplotlib and NumPy are imported for data processing, model building, and visualization.
+      Data Loading: The dataset is loaded from a specified directory, with training and testing images classified into two classes (male and female).
+      Model Building: The notebook likely includes steps to build a Convolutional Neural Network (CNN) model to classify gender based on images.
    - **Technologies Used:** Python, Pandas, scikit_learn
 
 ### 2. [ Churn Analysis Using Artificial Neural Network (ANN) ](https://github.com/suhail-1-2/churn-data-analysis)
