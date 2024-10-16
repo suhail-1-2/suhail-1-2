@@ -1,15 +1,16 @@
 # Welcome to My GitHub Profile!
 
-I am a dedicated and results-oriented professional aspiring to become a Data Scientist or Data Analyst. With intermediate knowledge and expertise in 
-Python, SQL, Power BI, and other data science tools, I am committed to utilizing my analytical skills to uncover insights, drive data-informed decision-making, 
-and contribute to the success of a dynamic and growth-oriented organization.
+
+
+Aspiring Data Scientist/Data Analyst with experience in Python, SQL, Power BI, and data science tools. Currently gaining hands-on experience with Selenium and Java in my internship, developing strong skills in automation testing, data manipulation, and machine learning. Passionate about leveraging data for informed decision-making in dynamic organizations.
 
 ## Skills and Expertise
-- **Programming Languages:** Python, SQL
+- **Programming Languages:** Python, SQL, NOSQL, java 
 - **Data Visualization:** Power BI, Matplotlib, Seaborn
 - **Data Manipulation and Analysis:** Pandas, NumPy
+- ****Automation Testing** : selenium with java
 - **Machine Learning:** Scikit-learn, TensorFlow (basics)
-- **Database Management:** MySQL, PostgreSQL
+- **Database Management:** MySQL, PostgreSQL, MongoDB
 - **Data Cleaning and Preprocessing:** Pandas,numpy Excel  
 - **Other Tools:** Jupyter Notebook, Git
 
